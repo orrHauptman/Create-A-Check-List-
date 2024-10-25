@@ -1,0 +1,90 @@
+﻿body {
+    background-color: #b3b2a9;
+}
+
+table {
+    border-spacing: 20px;
+    
+}
+
+
+
+.txt_class {
+    font-size: 20px;
+    border: none;
+    outline:none;
+    resize: none;
+    width: 450px;
+    background-color:antiquewhite;
+    color:dimgray;
+
+}
+#title {
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:black;
+}
+
+input[type="text"] 
+{
+    width:450px;
+    font-size:20px;
+
+}
+input[type="button"] {
+    width: 160px;
+    height: 60px;
+    font-size: 25px;
+    margin-left: 10px;
+    border-radius: 12px;
+    border-block-color: black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+input[type="checkbox"] {
+
+    -webkit-transform: scale(5);
+    margin-right: 10px;
+}
+
+td {
+    text-align: center;
+}
+.txt_task
+{
+    font-size: 20px;
+    border: none;
+    resize: none;
+    width: 600px;
+    background-color:beige;
+    border-block-color:bisque;
+}
+.txt_number {
+    font-size: 30px;
+    border: none;
+    resize: none;
+    width: 40px;
+    background-color: antiquewhite;
+    color:darkseagreen;
+}
+
+
+.txt_number_load {
+    font-size: 30px;
+    border: none;
+    resize: none;
+    width: 40px;
+    background-color: antiquewhite;
+    color: darkseagreen;
+}
+
+
+.txt_task_load {
+    font-size: 20px;
+    border: none;
+    resize: none;
+    width: 600px;
+    background-color: beige;
+}
